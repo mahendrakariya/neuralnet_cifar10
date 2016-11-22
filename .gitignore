@@ -1,0 +1,7 @@
+.idea
+data/
+__pycache__/
+summary
+.DS_Store
+checkpoints
+graphtf.py
